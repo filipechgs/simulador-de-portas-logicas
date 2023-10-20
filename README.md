@@ -1,2 +1,3 @@
-# simulador-de-portas-logicas
-Código que simula o funcionamento de portas lógicas, para experimentar, mudar, alterar. Contribuições e sugestões são bem vindas. Fique a vontade para clonar, fazer fok e o que quiser.
+# Simulador de portas
+Código que simula o funcionamento de portas lógicas. Fiz para me ajudar com os estudos do assunto Contribuições e sugestões são bem vindas. Fique a vontade para clonar, alterar fazer fork e o que quiser.
+Que tal fazer um jogo open source?
